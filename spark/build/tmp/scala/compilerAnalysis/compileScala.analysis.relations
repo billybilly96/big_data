@@ -1,0 +1,38 @@
+products:
+   src/main/scala/Main.scala -> build/classes/main/Main$$anonfun$1.class
+   src/main/scala/Main.scala -> build/classes/main/Main$$anonfun$10.class
+   src/main/scala/Main.scala -> build/classes/main/Main$$anonfun$11.class
+   src/main/scala/Main.scala -> build/classes/main/Main$$anonfun$2.class
+   src/main/scala/Main.scala -> build/classes/main/Main$$anonfun$3.class
+   src/main/scala/Main.scala -> build/classes/main/Main$$anonfun$4.class
+   src/main/scala/Main.scala -> build/classes/main/Main$$anonfun$5.class
+   src/main/scala/Main.scala -> build/classes/main/Main$$anonfun$6.class
+   src/main/scala/Main.scala -> build/classes/main/Main$$anonfun$7.class
+   src/main/scala/Main.scala -> build/classes/main/Main$$anonfun$8$$anonfun$apply$1.class
+   src/main/scala/Main.scala -> build/classes/main/Main$$anonfun$8.class
+   src/main/scala/Main.scala -> build/classes/main/Main$$anonfun$9.class
+   src/main/scala/Main.scala -> build/classes/main/Main$.class
+   src/main/scala/Main.scala -> build/classes/main/Main.class
+binary dependencies:
+   src/main/scala/Main.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/Main.scala -> /Users/billy/.gradle/caches/modules-2/files-2.1/org.apache.hadoop/hadoop-common/2.6.5/775c6ba9b08cf8ec42e27ea0730b69cc990c69ea/hadoop-common-2.6.5.jar
+   src/main/scala/Main.scala -> /Users/billy/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-core_2.11/2.4.0/2eebc2356fa310b7cc0308b672b08cecfe85eb70/spark-core_2.11-2.4.0.jar
+   src/main/scala/Main.scala -> /Users/billy/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/2.4.0/f80846e90008699e46e8678fa166f24a7a449927/spark-sql_2.11-2.4.0.jar
+   src/main/scala/Main.scala -> /Users/billy/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+source dependencies:
+external dependencies:
+class names:
+   src/main/scala/Main.scala -> Main
+   src/main/scala/Main.scala -> Main$
+   src/main/scala/Main.scala -> Main$$anonfun$1
+   src/main/scala/Main.scala -> Main$$anonfun$10
+   src/main/scala/Main.scala -> Main$$anonfun$11
+   src/main/scala/Main.scala -> Main$$anonfun$2
+   src/main/scala/Main.scala -> Main$$anonfun$3
+   src/main/scala/Main.scala -> Main$$anonfun$4
+   src/main/scala/Main.scala -> Main$$anonfun$5
+   src/main/scala/Main.scala -> Main$$anonfun$6
+   src/main/scala/Main.scala -> Main$$anonfun$7
+   src/main/scala/Main.scala -> Main$$anonfun$8
+   src/main/scala/Main.scala -> Main$$anonfun$8$$anonfun$apply$1
+   src/main/scala/Main.scala -> Main$$anonfun$9

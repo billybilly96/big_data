@@ -1,0 +1,238 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main
+compile options:
+2 items
+0 -> -deprecation
+1 -> -unchecked
+javac options:
+9 items
+0 -> -source
+1 -> 1.8
+2 -> -target
+3 -> 1.8
+4 -> -d
+5 -> /Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main
+6 -> -g
+7 -> -proc:none
+8 -> -XDuseUnsharedTable=true
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+14 items
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> /Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$1.class
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> /Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$10.class
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> /Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$11.class
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> /Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$2.class
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> /Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$3.class
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> /Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$4.class
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> /Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$5.class
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> /Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$6.class
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> /Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$7.class
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> /Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$8$$anonfun$apply$1.class
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> /Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$8.class
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> /Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$9.class
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> /Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$.class
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> /Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main.class
+binary dependencies:
+5 items
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> /Users/billy/.gradle/caches/modules-2/files-2.1/org.apache.hadoop/hadoop-common/2.6.5/775c6ba9b08cf8ec42e27ea0730b69cc990c69ea/hadoop-common-2.6.5.jar
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> /Users/billy/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-core_2.11/2.4.0/2eebc2356fa310b7cc0308b672b08cecfe85eb70/spark-core_2.11-2.4.0.jar
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> /Users/billy/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/2.4.0/f80846e90008699e46e8678fa166f24a7a449927/spark-sql_2.11-2.4.0.jar
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> /Users/billy/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+14 items
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Main
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Main$
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Main$$anonfun$1
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Main$$anonfun$10
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Main$$anonfun$11
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Main$$anonfun$2
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Main$$anonfun$3
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Main$$anonfun$4
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Main$$anonfun$5
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Main$$anonfun$6
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Main$$anonfun$7
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Main$$anonfun$8
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Main$$anonfun$8$$anonfun$apply$1
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Main$$anonfun$9
+used names:
+104 items
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> *
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> +
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> -
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> /
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> <
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> <init>
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> ==
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> App
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Array
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> ClassTag
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> DecimalFormat
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Double
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> FileSystem
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Main
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Ordering
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Path
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Predef
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> RDD
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> SparkSession
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> String
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Tuple2
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> Unit
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> _1
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> _2
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> a
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> a1
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> a2
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> aggregateByKey
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> apache
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> appName
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> apply
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> augmentString
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> builder
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> city
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> coalesce
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> columns
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> delete
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> df
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> exists
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> extract
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> filter
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> foldLeft
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> format
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> fs
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> get
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> getOrCreate
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> groupByKey
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> hadoop
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> hadoopConfiguration
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> head
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> inputPath
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> java
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> k
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> lastYear
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> length
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> map
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> materializeClassTag
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> math
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> ne
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> org
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> outputPath
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> package
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> qual$1
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> qual$2
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> rdd
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> rddAccidents
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> rddAccidentsKv
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> rddAvgSeverityPerCity
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> rddAvgSeverityPerCityYear
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> rddDifferenceAvgSeverityBetweenLast2Years
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> rddResult
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> rddSeverityDataPerCityYear
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> rddToOrderedRDDFunctions
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> rddToPairRDDFunctions
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> row
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> saveAsTextFile
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> scala
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> secondLastYear
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> severity
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> sortBy
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> sortByKey
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> spark
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> sparkContext
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> split
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> sql
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> substring
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> text
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> textFile
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> toDouble
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> toList
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> toString
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> topCities
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> unary_-
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> v
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> values
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> x
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> x$4
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> x$5
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> x$6
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> x$7
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> x$8
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> year
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> zipWithIndex
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> ||
+product stamps:
+14 items
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$1.class -> lastModified(1594021359000)
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$10.class -> lastModified(1594021359000)
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$11.class -> lastModified(1594021359000)
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$2.class -> lastModified(1594021359000)
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$3.class -> lastModified(1594021359000)
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$4.class -> lastModified(1594021359000)
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$5.class -> lastModified(1594021359000)
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$6.class -> lastModified(1594021359000)
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$7.class -> lastModified(1594021359000)
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$8$$anonfun$apply$1.class -> lastModified(1594021359000)
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$8.class -> lastModified(1594021359000)
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$$anonfun$9.class -> lastModified(1594021359000)
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main$.class -> lastModified(1594021359000)
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/build/classes/main/Main.class -> lastModified(1594021359000)
+source stamps:
+1 items
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> hash(aa06978d4b68ff32a74963527cc0ef5b91341926)
+binary stamps:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1530951661000)
+/Users/billy/.gradle/caches/modules-2/files-2.1/org.apache.hadoop/hadoop-common/2.6.5/775c6ba9b08cf8ec42e27ea0730b69cc990c69ea/hadoop-common-2.6.5.jar -> lastModified(1592655501000)
+/Users/billy/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-core_2.11/2.4.0/2eebc2356fa310b7cc0308b672b08cecfe85eb70/spark-core_2.11-2.4.0.jar -> lastModified(1592655439000)
+/Users/billy/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/2.4.0/f80846e90008699e46e8678fa166f24a7a449927/spark-sql_2.11-2.4.0.jar -> lastModified(1592655455000)
+/Users/billy/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar -> lastModified(1592655411000)
+class names:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/billy/.gradle/caches/modules-2/files-2.1/org.apache.hadoop/hadoop-common/2.6.5/775c6ba9b08cf8ec42e27ea0730b69cc990c69ea/hadoop-common-2.6.5.jar -> org.apache.hadoop.fs.Path
+/Users/billy/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-core_2.11/2.4.0/2eebc2356fa310b7cc0308b672b08cecfe85eb70/spark-core_2.11-2.4.0.jar -> org.apache.spark.rdd.PartitionCoalescer
+/Users/billy/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/2.4.0/f80846e90008699e46e8678fa166f24a7a449927/spark-sql_2.11-2.4.0.jar -> org.apache.spark.sql.SparkSession$
+/Users/billy/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar -> scala.App
+internal apis:
+1 items
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCi+yWlAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPbjxQZ0AAZub3RpZnlzcQB+AAxOTUcbdAAEd2FpdHNxAH4ADGBKIyZ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMogLr93QABmVxdWFsc3NxAH4ADIt3LQh0AAxhc0luc3RhbmNlT2ZzcQB+AAzyefQMdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAxIJtIodAAMc3luY2hyb25pemVkc3EAfgAMEvrNp3QADSRpc0luc3RhbmNlT2ZzcQB+AAynZjk6dAAEbWFpbnNxAH4ADF0q7PN0AAlub3RpZnlBbGxzcQB+AAyoh3JZdAAMaXNJbnN0YW5jZU9mc3EAfgAMRUAxYXQAAj09c3EAfgAMMdillnQABWNsb25lc3EAfgAMffmpknQABE1haW5zcQB+AAwp2qJXdAAIdG9TdHJpbmdzcQB+AAxBBRmwdAAEYXJnc3NxAH4ADCjdrE10AAIhPXNxAH4ADPaO9rp0AAhnZXRDbGFzc3NxAH4ADNNLRrB0AAJuZXNxAH4ADP/Rprx0AAJlcXNxAH4ADBF/dyt0AAtkZWxheWVkSW5pdHNxAH4ADHWHvIJ0AAIjI3NxAH4ADAzrfp90AAhmaW5hbGl6ZXNxAH4ADFYZfrt0AAdleHRyYWN0c3EAfgAM1PBKR3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgApdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAEHNjYWxhLmRlcHJlY2F0ZWRzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGJ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGEAcHNxAH4AZnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGpzcQB+AGEAcHNxAH4AZnVxAH4ARAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ASnEAfgBTdXEAfgBUAAAAAHNxAH4AVgJxAH4AH3VxAH4AWAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBpdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AaXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ah3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHR4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFt0AAVQbGFpbnEAfgAtc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB7WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBpc3EAfgB6dAAFQXJyYXlxAH4AgHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB6dAAGU3RyaW5nc3EAfgB+c3EAfgCBdXEAfgCEAAAAA3NxAH4AhnQABGphdmFzcQB+AIZ0AARsYW5ncQB+AItzcQB+AGEAcHNxAH4AZnVxAH4ARAAAAABzcQB+AGEAcHNxAH4AZnVxAH4AngAAAARzcQB+AHp0AANBcHBxAH4AgHNxAH4AenQAC0RlbGF5ZWRJbml0cQB+AIBzcQB+AHp0AAZPYmplY3RxAH4AonNxAH4AenQAA0FueXEAfgCAdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXMjE59CdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAay9Vc2Vycy9iaWxseS9Eb2N1bWVudHMvTUFHSVNUUkFMRS8yX0FOTk8vQmlnRGF0YS9wcm9qZWN0L2V4YW0tcHJvamVjdC1iaWxseWJpbGx5OTYvc3BhcmsvYnVpbGQvY2xhc3Nlcy9tYWludAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUqgaXjUto/zKnSWNSfMDvW5E0GSY=
+external apis:
+0 items
+source infos:
+1 items
+/Users/billy/Documents/MAGISTRALE/2_ANNO/BigData/project/exam-project-billybilly96/spark/src/main/scala/Main.scala -> 
+AAAAAQAAAQAAABEAMiAgb3ZlcnJpZGUgZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSk6IFVuaXQgPSB7AQAAAhsBAAAADwEADyAgICAgICAgICAgICAgIAEAci9Vc2Vycy9iaWxseS9Eb2N1bWVudHMvTUFHSVNUUkFMRS8yX0FOTk8vQmlnRGF0YS9wcm9qZWN0L2V4YW0tcHJvamVjdC1iaWxseWJpbGx5OTYvc3Bhcmsvc3JjL21haW4vc2NhbGEvTWFpbi5zY2FsYQEAci9Vc2Vycy9iaWxseS9Eb2N1bWVudHMvTUFHSVNUUkFMRS8yX0FOTk8vQmlnRGF0YS9wcm9qZWN0L2V4YW0tcHJvamVjdC1iaWxseWJpbGx5OTYvc3Bhcmsvc3JjL21haW4vc2NhbGEvTWFpbi5zY2FsYQBQb3ZlcnJpZGluZyBtZXRob2QgbWFpbiBpbiB0cmFpdCBBcHAgaXMgZGVwcmVjYXRlZDogbWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4BAAAAAA==
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcyMTn0J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAay9Vc2Vycy9iaWxseS9Eb2N1bWVudHMvTUFHSVNUUkFMRS8yX0FOTk8vQmlnRGF0YS9wcm9qZWN0L2V4YW0tcHJvamVjdC1iaWxseWJpbGx5OTYvc3BhcmsvYnVpbGQvY2xhc3Nlcy9tYWludAABLw==
